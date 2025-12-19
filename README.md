@@ -26,3 +26,4 @@ This is my reports
 
 ---
 
+<img width="1918" height="1078" alt="Ubuntu Setup" src="https://github.com/user-attachments/assets/5e881644-bfd3-41c4-bb02-75c51c905040" />
