@@ -116,5 +116,8 @@ It is possible alerts from his inputs may contain different syntax resulting in 
 
 Review of this incident and analysis of the evidence, indicates this is likely caused by the inadequate implementation of security measures and monitoring by the organisation Frothly. AWS was not at fault as outlined in their Shared Responsibility Model [3] as IAM and Network Traffic Protection are the Customers responsibility.  The analysis of AWS CloudTrail and S3 access logs revealed misuse of IAM permissions, MFA enforcement not present and lack of S3 bucket security settings resulting in misconfiguration and a vulnerability. The available evidence indicated cost effective solutions were available before the breach that would likely prevent this incident. Overall, these findings highlighted the need for continuous monitoring within SOC and timely remediation plans put in place to prevent future security failures and a review of the current procedures. However, I have not found any evidence of this incident affecting Frothly’s infrastructure long term. 
 
+# Video
+[Video Breakdown] (https://youtu.be/4OlrZ5YUPSg)
+
 
 
